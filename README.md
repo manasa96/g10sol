@@ -8,7 +8,7 @@ Created Two web Interfaces
 2. Web Interface-2
 - This web page views all the saved details in the database in tabular form
 - It has a search functionality
-- It can search using Title, Author and Description
+- It can search using Title, Author and Description fields
 - you can select Author using a dropdown menu
-- Select 
+- Select any single field for your search
 
